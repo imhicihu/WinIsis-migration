@@ -1,10 +1,11 @@
-# README #
+# Rationale #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Steps that describe the workflow of migration 3 databases in 3 diferent operating systems, in outdated file formats. *Goal:* generate an unique database compatible with the most current file specifications.
 
 ### What is this repository for? ###
 
 * Quick summary
+     - Workflow with a focus in the steps to migrate some older database to current file specifications. 
 * Version 1.0
 
 
@@ -13,7 +14,7 @@ This README would normally document whatever steps are necessary to get your app
 * Summary of set up
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
-     - VirtualBox (to create a custom environment)
+     - VirtualBox (to   create a custom virtual t)
 * Configuration
      - 
 * Dependencies
