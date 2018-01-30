@@ -1,0 +1,1 @@
+_Open Refine_. Ruben Verborgh, Max De Wilde, 116 pp. ISBN: 139781783289080. PackPress.
