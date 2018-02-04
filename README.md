@@ -16,8 +16,9 @@
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment)
+     - [Docker](https://www.docker.com/)
 * Configuration
-     - 
+     - In the making.
 * Dependencies
      - The less, the better (avoid steps prone to error)
 * Database configuration
