@@ -6,7 +6,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - Workflow with a focus in the steps (mandatory) to migrate some older database (_circa_ 90') to current file format specifications. 
+     - Workflow with a focus in the steps (mandatory) to migrate some older database (_circa_ 1990's) to current file format specifications. 
 * Version 1.0
 
 
@@ -44,4 +44,4 @@
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Contact `imhicihu at gmail dot com`
+     - Contact `imhicihu` at `gmail` dot `com or our [Board](https://bitbucket.org/imhicihu/win-isis-migration/addon/trello/trello-board)
