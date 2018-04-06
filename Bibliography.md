@@ -1,5 +1,6 @@
 ## MicroIsis / WinIsis:
 
+* _El manual de CDS/ISIS para Windows_ Andrew Buxton & Alan Hopkinson. Accedido el 14/12/2017 en https://eprints.mdx.ac.uk/3077/7/Spanish_Handbook.pdf
 * Manual Winisis: versión 1997. Córdoba: Universidad Nacional de Córdoba. Secretaría de Administración. Departamento Cómputos, 1997. 63 h.; 30 cm.  (vide #22428) ===> Solicitar a/por: `Depósito Proatlas 016321`
 * Manual de referencia mini-micro CDS/ISIS: versión 2.3. Paris: Unesco, 1990. xvi, 352 p.; 25 cm. --) ===> Solicitar a/por: `Depósito Proatlas 006204`
 * Bibliografía de publicaciones editadas en 1993: incorporadas a la base de datos de PROATLAS. Buenos Aires: PROATLAS, mar 1994. 2, 34, 8, 3, 15 h.; 28 cm.  ===> Solicitar a/por: `Depósito Proatlas 006800`
