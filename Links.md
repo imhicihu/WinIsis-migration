@@ -1,2 +1,3 @@
 * http://slideplayer.com/slide/7015313/
-* https://www.emaze.com/@AWIWLZRR  (tener en cuenta la antepenÃºltima filmina, tiene bibliografÃ¬a que puede ser interesante
+* http://slideplayer.com/slide/2817727/
+* https://www.emaze.com/@AWIWLZRR  (tener en cuenta la antepenúltima filmina, tiene bibliografìa que puede ser interesante
