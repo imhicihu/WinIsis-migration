@@ -1,0 +1,1 @@
+* take screen shot of the WinIsis installed in Ricardo's pc--->  Terrae data
