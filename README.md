@@ -35,13 +35,6 @@
 * Data
      - [Microsoft official Compatibility (addenda)](https://answers.microsoft.com/es-es/windows/forum/windows_7-windows_programs/quiero-instalar-el-winsis-en-windows-7-de-64-bits/0ef1df8d-bc00-4736-be84-a9159660a65a?auth=1)
 
-### Contribution guidelines ###
-
-* Writing tests
-     - To do
-* Code review
-     - Out of scope. The final deadline is create a tutorial describing the workflow of installing WinIsis in exogenous environments (MacOS mainly)
-
 
 ### Who do I talk to? ###
 
