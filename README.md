@@ -23,11 +23,11 @@
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
 
 * Configuration
-     - In the making.
+     - _In the making_
 * Dependencies
      - The less, the better (avoid steps prone to error)
 * Database configuration
-     - In the making.
+     - _In the making_
 * How to run tests
      - Follow the steps pointed
 * Deployment instructions
