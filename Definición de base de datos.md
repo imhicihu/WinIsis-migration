@@ -1,4 +1,4 @@
-Nro | Nombre | Tipo | Rep | Patrón
+Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 ---|------|----|---|------
 1 | Nombre del archivo | Alfanumérica | R | (sin datos)
 2|Número de acceso|Patrón|-|99999.99
@@ -20,4 +20,53 @@ Nro | Nombre | Tipo | Rep | Patrón
 20|Páginas - nivel m|Alfanumérico|- | 
 21|Número de volumen - nivel m|Alfanumérico|- | 
 23|Autor personal - nivel c|Alfanumérico|R| 
-24|Autor institucional - nivel c|Alfanumérico|R|
+24|Autor institucional - nivel c|Alfanumérico|R| 
+25|Título - nivel c|Alfanumérico|R| 
+27|Número total de vol. - nivel c|Alfanumérico|- | 
+29|Editor institucional - nivel s|Alfanumérico|R| 
+30|Título de publ. seriada|Alfanumérico|R| 
+31|Volumen de publ. seriada|Alfanumérico|- | 
+32|Número de publ. seriada|Alfanumérico|- | 
+33|Periodicidad de publ. seriada|Alfanumérico|- | 
+34|ISSN|Patrón|- |9999-999K
+38|Editorial|Alfanumérico|- | 
+39|Ciudad de la editorial|Alfanumérico|- | 
+40| País de la editorial|Patrón|- |AA
+41|Edición|Alfanumérico|- | 
+42|Información descriptiva|Alfanumérico|- | 
+43|Fecha de publicación|Alfanumérico|- | 
+44|Fecha normalizada ISO|Patrón|- |XXXX9999
+45|Símbolo|Alfanumérico|R| 
+47|ISBN|Alfanumérico|R| 
+48|Número de venta (NU)|Alfanumérico|- | 
+50|Institución - Tesis|Alfanumérico|R| 
+51|Grado académico - Tesis|Alfanumérico|- | 
+52|Institución patroc. - Conf.|Alfanumérico|- | 
+53|Nombre - Conferencia|Alfanumérico|- | 
+54|Ciudad-Conferencia|Alfanumérico|- | 
+55|País - Conferencia|Patrón|- |AA
+56|Fecha - Conferencia|Alfanumérico|- | 
+57|Fecha normalizada ISO - Conf.|Patrón|- |99999999
+58|Institución patroc. - Proyecto|Alfanumérico|R | 
+59|Nombre y número - Proyecto|Alfanumérico|R | 
+62|Diseminación de la información|Alfanumérico|- | 
+63|Impresión del documento|Alfanumérico|- | 
+64|Idioma del texto|Alfabético|R | 
+65|Idioma de resumen original|Alfabético|R | 
+68|Notas| Alfanumérico|- | 
+72|Resumen|Alfanumérico|- | 
+73|Número de referencias|Alfanumérico|- | 
+74|Alcance temporal: desde: |Patrón |- |9999
+75|Alcance temporal: hasta: |Patrón |- |9999
+76|Descriptores: const. temático|Alfanumérico|- | 
+77|Descriptores: cont. estadíst.|Alfanumérico|- | 
+80|Categoría temática primaria|Alfanumérico|- | 
+81|Categoría temática secundaria|Alfanumérico|- | 
+82|Categoría geográfica|Patrón|- |AA
+83|Países primarios|Alfabético|R | 
+84|Países secundarios|Alfabético|R | 
+85|Divisiones adm. y regiones|Alfanumérico|- | 
+94|Estado del registro|Patrón|- |AAA99999999
+95|Número resumen definitivo|Alfanumérico|R| 
+96|Número resumen preparación|Alfanumérico|- | 
+98|Nombre y MFN en base origen|Alfanumérico|- |
