@@ -10,7 +10,6 @@
      - Workflow with a focus in the steps (mandatory) to migrate some older database (_circa_ 1990's) to current file format specifications. 
 * Version 1.0
 
-
 ### How do I get set up? ###
 
 * Summary of set-up
@@ -20,7 +19,7 @@
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment)
      - [Docker](https://www.docker.com/)
-     - Google Spreadsheet
+     - [Google Spreadsheet](http://spreadsheets.google.com/)
      - db3iso
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
 
@@ -31,9 +30,9 @@
 * Database configuration
      - _In the making_
 * How to run tests
-     - Follow the steps pointed
+     - _In the making_
 * Deployment instructions
-     - Follow the steps pointed
+     - _In the making_
 * Data
      - [Microsoft official Compatibility (addenda)](https://answers.microsoft.com/es-es/windows/forum/windows_7-windows_programs/quiero-instalar-el-winsis-en-windows-7-de-64-bits/0ef1df8d-bc00-4736-be84-a9159660a65a?auth=1)
 
