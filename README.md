@@ -36,6 +36,9 @@
 * Data
      - [Microsoft official Compatibility (addenda)](https://answers.microsoft.com/es-es/windows/forum/windows_7-windows_programs/quiero-instalar-el-winsis-en-windows-7-de-64-bits/0ef1df8d-bc00-4736-be84-a9159660a65a?auth=1)
 
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/winisis-migration/issues)
 
 ### Who do I talk to? ###
 
