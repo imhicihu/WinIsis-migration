@@ -21,15 +21,15 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 24|Título (m) %^tsr| Alfanumérica |R | tsr
 25|Título trad. (m) ^t| Alfanumérica |R |t
 26|Otro título (m) %| Alfanumérica |R | 
-27|Título uniforme (m) ^tp| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfanumérica |R | 
+27|Título uniforme (m) ^tp| Alfanumérica |R | tp
+28|Autor pers. (m) %^abdef| Alfanumérica |R | abdef
+29|Autor corp. (m) %^if| Alfanumérica |R |if
+30|Título (c) %^tsn| Alfanumérica |R |tsn
+31|Título trad. (c) ^t| Alfanumérica |R | t
+32|Otro título (c) %| Alfanumérica |R | 
+33|Autor personal (c) %^abdef| Alfanumérica |R | abdef
+34|Resp. inst. (c) %^if| Alfanumérica |R | if
+36|Título (ps) %^tndux| Alfanumérica |R | tndux
+39|Resp. inst. (s) %^if| Alfanumérica |R | if
+40|Reunión: Nombre %^nxos| Alfanumérica |R | nxos
+41|Reunión: Lugar %^lp| Alfanumérica |R | lp
