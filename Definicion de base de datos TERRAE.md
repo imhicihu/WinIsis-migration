@@ -33,3 +33,13 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 39|Resp. inst. (s) %^if| Alfanumérica |R | if
 40|Reunión: Nombre %^nxos| Alfanumérica |R | nxos
 41|Reunión: Lugar %^lp| Alfanumérica |R | lp
+42|Reunión: Fecha %^f| Alfanumérica |R | f
+43|Reunión: Resp.inst. %^if| Alfanumérica |R | if
+44|Edición| Alfanumérica |- | 
+45|Fecha publ. ^fdho| Alfanumérica |- | fdho 
+47|Editor/Lugar %^el| Alfanumérica |R | el
+48|País edic. %| Alfanumérica |R | 
+49|Reunión: Lugar %^lp| Alfanumérica |- | 
+
+
+
