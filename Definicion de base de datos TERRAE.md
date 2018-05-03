@@ -75,7 +75,7 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 240|Tit. Reun. %| Alfanumérica |R | 
 270|Tit. unif. (c) ^tp| Alfanumérica |- | tp
 272|Ejemplar| Alfanumérica |- | 
-277|Numero de titulo| Alfanumérica |- | 
+277|Numero de titulo| Numérico |- | 
 285|Resp. sec. aut. inst. %^if| Alfanumérica |R | if
 286|Siglas| Alfanumérica |R | 
 287|Otras.form.nomb.aut.pers. %^zn| Alfanumérica |R | zn
