@@ -17,6 +17,7 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 19|Rel.vert.Doc.may. %^dtim| Alfanumérica |R | dtim
 20|Título (a) %^tsr| Alfanumérica |R |tsr
 21|Título trad. (a) ^t| Alfanumérica |R | t
+22|Autor pers. (a) %^abdef| Alfanumérica |R | abdef
 23|Resp. inst. (a) %^if| Alfanumérica |R | if
 24|Título (m) %^tsr| Alfanumérica |R | tsr
 25|Título trad. (m) ^t| Alfanumérica |R |t
