@@ -46,5 +46,20 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 54|Proyecto, progr., etc. %^isne| Alfanumérica |R | isne
 55|Tesis ^nsegcd| Alfanumérica |- | nsegcd
 56|Idioma/Tit. orig. %^ltim| Alfanumérica |- | ltim
+57|Relac. horiz. ant. %^rltim| Alfanumérica |R | rltim
+58|Relac. horiz. post. %^rltim| Alfanumérica |R | rltim
+59|Notas %| Alfanumérica |R | 
+65|Descriptor %| Alfanumérica |R | 
+67|Cobert. temp. ^dh| Alfanumérica |- | dh
+75|Sig. Top. %^z| Alfanumérica |R |z 
+77|Inventario %| Alfanumérica |R | 
+84|Vol. exist. %^v| Alfanumérica |R | v
+85|Disponibilidad| Alfanumérica |- | 
+90|Obt.(forma/Don/tram/sec) %^nod| Alfanumérica |R | nod
+98|Control ingr. datos %| Alfanumérica |R | 
+100|Ident. Instituc. %| Alfanumérica |R | 
+105|Pais instit.%| Alfanumérica |R | 
+109|Ident.Inst. (Forma usada 2)%| Alfanumérica |R | 
+111|Ident.Inst.(Form. no usadas)%| Alfanumérica |R | 
 
 
