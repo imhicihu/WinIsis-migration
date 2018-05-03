@@ -82,6 +82,7 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 288|Resp. Inst.: ref. %| Alfanumérica |R | 
 289|Reuniones, congr.: ref. %^cnx| Alfanumérica |R | cnx
 365|Escala del mapa %| Alfanumérica |R | 
+366|ARG.: Pais| Alfabético |- | 
 367|ARG.: Reg.nat.y comp.reg. %| Alfanumérica |R | 
 368|ARG.: Capital Federal %| Alfanumérica |R | 
 369|ARG.: Prv.-Dto/Prt-Cngl. %^pdc| Alfanumérica |R | pdc
