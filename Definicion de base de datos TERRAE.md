@@ -14,11 +14,22 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 12|Código Doc. %%| Alfanumérica |R | 
 15|ISSN (s) %| Patrón |R | 9999-999X
 18|Rel.vert.Doc.incl. %^dtim| Alfanumérica |R | dtim
-19|Rel.vert.Doc.may. %^dtim| Alfanumérica |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
-4|Datos adic. del reg. %| Alfabético |R | 
+19|Rel.vert.Doc.may. %^dtim| Alfanumérica |R | dtim
+20|Título (a) %^tsr| Alfanumérica |R |tsr
+21|Título trad. (a) ^t| Alfanumérica |R | t
+23|Resp. inst. (a) %^if| Alfanumérica |R | if
+24|Título (m) %^tsr| Alfanumérica |R | tsr
+25|Título trad. (m) ^t| Alfanumérica |R |t
+26|Otro título (m) %| Alfanumérica |R | 
+27|Título uniforme (m) ^tp| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
+4|Datos adic. del reg. %| Alfanumérica |R | 
