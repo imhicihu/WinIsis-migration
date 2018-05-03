@@ -40,6 +40,11 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 47|Editor/Lugar %^el| Alfanumérica |R | el
 48|País edic. %| Alfanumérica |R | 
 49|Reunión: Lugar %^lp| Alfanumérica |- | 
-
+50|Idioma %^l| Alfanumérica |R | l
+52|Descrip. física ^eidc| Alfanumérica |- | eidc
+53|Localiz.: parte| Alfanumérica |- | 
+54|Proyecto, progr., etc. %^isne| Alfanumérica |R | isne
+55|Tesis ^nsegcd| Alfanumérica |- | nsegcd
+56|Idioma/Tit. orig. %^ltim| Alfanumérica |- | ltim
 
 
