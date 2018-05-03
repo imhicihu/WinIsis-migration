@@ -3,7 +3,7 @@
 * Steps that describe the workflow of migration 3 databases in 3 diferent operating systems, in outdated file formats. 
 * In the [Bibliography.md](https://bitbucket.org/imhicihu/win-isis-migration/src/6021d37ca21a6589449830e9688172630293fca6/Bibliography.md?at=master) there are some _insights_ about the original database created, maintained, curated in the 90's. 
 * _Goal_: generate an unique database compatible with the most current file format specifications.
-![terrae.jpg](https://bitbucket.org/repo/Kr5x8n6/images/2235980529-terrae.jpg)
+![2235980529-terrae.png](https://bitbucket.org/repo/Kr5x8n6/images/3748228110-2235980529-terrae.png)
 
 ### What is this repository for? ###
 
