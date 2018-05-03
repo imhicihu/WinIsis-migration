@@ -17,7 +17,7 @@
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
           + once installed Windows 7 ISO _via_ VirtualBox, install the [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): minimizing incompatibilities
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
-     - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment)
+     - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment) plus [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
      - [Docker](https://www.docker.com/)
      - [Google Spreadsheet](http://spreadsheets.google.com/)
      - db3iso
