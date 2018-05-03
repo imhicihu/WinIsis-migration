@@ -70,6 +70,18 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 177|Invent. de docum. %| Alfanumérica |R | 
 214|Cod. Normas %| Alfanumérica |R | 
 216|Resp. sec. aut. pers. %^abdef| Alfanumérica |R | abdef
+217|Tit. unif. (a)  %^tp| Alfanumérica |R | tp
+240|Tit. Reun. %| Alfanumérica |R | 
+270|Tit. unif. (c) ^tp| Alfanumérica |- | tp
+272|Ejemplar| Alfanumérica |- | 
+277|Numero de titulo| Alfanumérica |- | 
+285|Resp. sec. aut. inst. %^if| Alfanumérica |R | if
+286|Siglas| Alfanumérica |R | 
+287|Otras.form.nomb.aut.pers. %^zn| Alfanumérica |R | zn
+288|Resp. Inst.: ref. %| Alfanumérica |R | 
+289|Reuniones, congr.: ref. %^cnx| Alfanumérica |R | cnx
+365|Escala del mapa %| Alfanumérica |R | 
+366|ARG.: Pais| Alfabetico |- | 
 
 
 
