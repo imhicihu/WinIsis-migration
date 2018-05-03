@@ -61,7 +61,7 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 105|Pais instit.%| Alfanumérica |R | 
 109|Ident.Inst. (Forma usada 2)%| Alfanumérica |R | 
 111|Ident.Inst.(Form. no usadas)%| Alfanumérica |R | 
-112|NTermino de remision (USE)| Alfanumérica |- | 
+112|Termino de remision (USE)| Alfanumérica |- | 
 114|Opciones salida| Alfanumérica |- | 
 123|Tit. que origina la ident.| Alfanumérica |- | 
 124|Fecha publ.| Alfanumérica |- | 
