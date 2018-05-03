@@ -81,7 +81,17 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 288|Resp. Inst.: ref. %| Alfanumérica |R | 
 289|Reuniones, congr.: ref. %^cnx| Alfanumérica |R | cnx
 365|Escala del mapa %| Alfanumérica |R | 
-366|ARG.: Pais| Alfabetico |- | 
-
-
-
+367|ARG.: Reg.nat.y comp.reg. %| Alfanumérica |R | 
+368|ARG.: Capital Federal %| Alfanumérica |R | 
+369|ARG.: Prv.-Dto/Prt-Cngl. %^pdc| Alfanumérica |R | pdc
+466|Pais extranjero %| Alfanumérica |R | 
+467|Extr.: Reg.nat.y comp.regs. %| Alfanumérica |R | 
+468|Extr.: Distrito Federal %| Alfanumérica |R | 
+469|Extr.: Subd.pol. y ciudad %^pc| Alfanumérica |R | pc
+500|Codigo para impresion %| Alfanumérica |R | 
+501|Nivel de desagregación%| Alfanumérica |R | 
+502|Dirección postal| Alfanumérica |- | 
+523|Falta ingresar| Alfanumérica |- | 
+524|Prestatario%^uvpb| Alfanumérica |R | uvpb
+527|Préstamos anteriores %^uvpd| Alfanumérica |R | uvpd
+567|Fecha del mapa %| Alfanumérica |R | 
