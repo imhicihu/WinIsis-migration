@@ -4,9 +4,9 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 2|Número de acceso|Patrón|-|99999.99
 3|Ubicación física | Alfanumérica |- | 
 4|Tipo de literatura| Alfabético |- | 
-5|Nivel bibliográfica| Alfabético |- | 
+5|Nivel bibliográfico| Alfabético |- | 
 6|Nivel de registro| Alfabético |- | 
-7|Nivel de registro| Alfabético |- | 
+7|Nombre Centro Participante| Alfanumérico |- | 
 8|Número control en Centro Part.|Alfanumérico|- | 
 10|Autor personal - nivel a|Alfanumérico|R | 
 11|Autor institucional - nivel a|Alfanumérico|R | 
