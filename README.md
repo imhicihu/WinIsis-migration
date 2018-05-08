@@ -10,6 +10,7 @@
 * Quick summary
      - Workflow with a focus in the steps (mandatory) to migrate some older database (_circa_ 1990's) to current file format specifications. 
 * Version 1.0
+![bothdatabases.jpg](https://bitbucket.org/repo/Kr5x8n6/images/1785054149-bothdatabases.jpg)
 
 ### How do I get set up? ###
 
