@@ -27,15 +27,13 @@
 * Configuration
      - _In the making_
 * Dependencies
-     - The less, the better (avoid steps prone to error)
+     - The less, the better (avoid steps prone to error). _In the making._
 * Database configuration
      - _In the making_
 * How to run tests
      - _In the making_
 * Deployment instructions
      - _In the making_
-* Data
-     - [Microsoft official Compatibility (addenda)](https://answers.microsoft.com/es-es/windows/forum/windows_7-windows_programs/quiero-instalar-el-winsis-en-windows-7-de-64-bits/0ef1df8d-bc00-4736-be84-a9159660a65a?auth=1)
 
 ### Issues ###
 
