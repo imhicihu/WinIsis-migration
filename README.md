@@ -16,6 +16,7 @@
 
 * Summary of set-up
      - Check our [WinIsis operating system test](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
+     - Windows 98 iso image (_favorite_)
      - Windows Xp iso image (_favorite_)
      - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
           + once installed Windows 7 ISO _via_ VirtualBox, install [Windows Virtual PC](https://www.microsoft.com/es-ar/download/details.aspx?id=3702) and then [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002). This will create a virtual environment, mandatory in this case because compatibilities issues. WinIsis runs _natively_ on 32 bits, so all the operating systems must follow this requisite, at this point, *essential*. 
@@ -45,3 +46,6 @@
 
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com` or our [Board](https://bitbucket.org/imhicihu/win-isis-migration/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
+     
+### Legal ###
+* Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
