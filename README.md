@@ -24,7 +24,7 @@
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment) plus [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
      - [Docker](https://www.docker.com/)
      - [Google Spreadsheet](http://spreadsheets.google.com/)
-     - db3iso
+     - ~~[db3iso](http://www.agralin.nl/isis/db3iso.com)~~
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
 
 * Configuration
