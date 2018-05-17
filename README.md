@@ -50,3 +50,4 @@
      
 ### Legal ###
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
+* All trademarks are the property of their respective owners.
