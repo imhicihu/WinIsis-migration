@@ -5,6 +5,7 @@
     - [Windows 7 (32 bits)](https://www.microsoft.com/es-es/software-download/windows7) (operating system)
     - [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002)  - (virtualization)
     - [Duplicati](https://www.duplicati.com/) (backup software)
+    - Apple's [Disk Utility](https://support.wdc.com/knowledgebase/answer.aspx?ID=1362) `.ISO`image creation on Mac OSX
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/) (various utilities exclusively for WinIsis)
