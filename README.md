@@ -26,6 +26,7 @@
      - [Google Spreadsheet](http://spreadsheets.google.com/)
      - ~~[db3iso](http://www.agralin.nl/isis/db3iso.com)~~
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
+     - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/) 
 
 * Configuration
      - _In the making_
