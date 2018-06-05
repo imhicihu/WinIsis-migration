@@ -16,15 +16,15 @@
 
 * Summary of set-up
      - Check our [WinIsis operating system test](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
-     - Windows 98 iso image (_favorite_)
-     - Windows Xp iso image (_favorite_)
-     - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7)
+     - Windows 98 iso image file (_favorite_)
+     - Windows Xp iso image file (_favorite_)
+     - [Windows 7 iso](https://www.microsoft.com/en-us/software-download/windows7) image file
           + once installed Windows 7 ISO _via_ VirtualBox, install [Windows Virtual PC](https://www.microsoft.com/es-ar/download/details.aspx?id=3702) and then [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002). This will create a virtual environment, mandatory in this case because compatibilities issues. WinIsis runs _natively_ on 32 bits, so all the operating systems must follow this requisite, at this point, *essential*. 
 	 - [WinIsis](http://biblio1.mdp.edu.ar/index2.php?pagina=recursos/wisis/winisis.php)
      - [VirtualBox](https://www.virtualbox.org/) (software that create a custom virtual environment) plus [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
      - [Docker](https://www.docker.com/)
-     - [Google Spreadsheet](http://spreadsheets.google.com/)
-     - ~~[db3iso](http://www.agralin.nl/isis/db3iso.com)~~
+     - [Google Spreadsheet](https://spreadsheets.google.com/)
+     - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
      - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/) 
 
