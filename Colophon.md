@@ -9,7 +9,8 @@
     - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/) (various utilities exclusively for WinIsis)
-    - [IMGEXP2709](ftp://irbis.tomsk.ru/pub/isis/isis_products/db-iso/ver4/impexp2709/) (importing & exporting ISO file format, mainly `2709` file structure
+    - [IMGEXP2709](ftp://irbis.tomsk.ru/pub/isis/isis_products/db-iso/ver4/impexp2709/) (importing & exporting ISO file format, mainly `2709` file structure)
+    - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
 * Hardware:
     - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
     - 8gb RAM
