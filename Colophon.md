@@ -16,6 +16,7 @@
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
     - Cleaning database
         - [Talent open studio for data quality](https://www.talend.com/products/talend-open-studio/data-quality-open-studio/)
+        - [OpenRefine](http://openrefine.org/): cleaning tool for datasets and datatables
     - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
 * Hardware:
     - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
