@@ -11,6 +11,8 @@
     - Backup:
         - [Duplicati](https://www.duplicati.com/) (backup software)
     - Apple's [Disk Utility](https://support.wdc.com/knowledgebase/answer.aspx?ID=1362) `.ISO`image creation on Mac OSX
+    - Text encoding:
+        - [Rosettavert](https://eclecticlight.co/downloads/): conversion between text encodings
     - Data Validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
