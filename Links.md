@@ -10,3 +10,4 @@
 * http://catalis.uns.edu.ar/doku/doku.php/utilitarios_cisis
 * http://wiki.bireme.org/en/index.php/CDS-ISIS_for_Windows
 * [J-ISIS and Web-JISIS](https://github.com/J-ISIS/J-ISIS/wiki)
+* [Isis software related digital repository](ftp://irbis.tomsk.ru/pub/isis/)
