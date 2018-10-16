@@ -1,3 +1,10 @@
+## Technical requeriments ##
+
+* Hardware:
+    - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
+    - 8gb RAM
+    - an Ethernet or WiFi card with an internet connection (stable)
+    
 * Software:
     - [WinIsis](http://modelo.bvsalud.org/download/winisis/winisis-Windows-1.5.3.exe) - Cataloger
     - WinIsis utilities:
@@ -20,8 +27,8 @@
         - [Talent open studio for data quality](https://www.talend.com/products/talend-open-studio/data-quality-open-studio/)
         - [OpenRefine](http://openrefine.org/): cleaning tool for datasets and datatables
     - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
-* Hardware:
-    - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
-    - 8gb RAM
-    - an Ethernet or WiFi card with an internet connection (stable)
-    
+    - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+
+## Legal ##
+
+* All trademarks are the property of their respective owners.
