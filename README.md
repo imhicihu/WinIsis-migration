@@ -30,18 +30,7 @@
      - [Google Spreadsheet](https://spreadsheets.google.com/)
      - [db3iso](ftp://library.tomsk.ru/pub/isis/isis_products/db-iso/ver2/db3iso.zip)
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
-     - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/) 
-
-* Configuration
-     - _In the making_
-* Dependencies
-     - The less, the better (avoid steps prone to error). _In the making._
-* Database configuration
-     - _In the making_
-* How to run tests
-     - _In the making_
-* Deployment instructions
-     - _In the making_
+     - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/)
 
 ### Issues ###
 
@@ -53,5 +42,9 @@
      - Contact `imhicihu` at `gmail` dot `com` or our [Board](https://bitbucket.org/imhicihu/win-isis-migration/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
      
 ### Legal ###
+
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
 * All trademarks are the property of their respective owners.
+
+### License ###
+* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg) 
