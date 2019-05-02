@@ -4,14 +4,14 @@
 # Rationale #
 
 * Steps that describe the workflow of migration 3 databases in 3 diferent operating systems, in outdated file formats. 
-* In the [Bibliography.md](https://bitbucket.org/imhicihu/winisis-migration/src/328d9c2b9649caa3a4e65e57399dbfc817f40717/Bibliography.md?at=master&fileviewer=file-view-default) there are some _insights_ about the original database created, maintained, curated in the 90's. 
+* In the [Bibliography.md](https://bitbucket.org/imhicihu/winisis-migration/src/328d9c2b9649caa3a4e65e57399dbfc817f40717/Bibliography.md?at=master&fileviewer=file-view-default) there are some _insights_ about the original database created, maintained, curated in the [90's](https://bitbucket.org/imhicihu/terrae-database/src/master/README.md). 
 * _Goal_: generate an unique database compatible with the most current file format specifications.
 ![2235980529-terrae.png](https://bitbucket.org/repo/Kr5x8n6/images/3748228110-2235980529-terrae.png)
 
 ### What is this repository for? ###
 
 * Quick summary
-     - Workflow with a focus in the steps (mandatory) to migrate some older database (_circa_ 1990's) to current file format specifications. 
+     - Workflow with a focus in the steps (mandatory) to migrate some [older database](https://bitbucket.org/imhicihu/terrae-database/src/master/README.md) (_circa_ 1990's) to current file format specifications. 
 * Version 1.0
 ![bothdatabases.png](https://bitbucket.org/repo/Kr5x8n6/images/598019471-bothdatabases.png)
 
