@@ -12,3 +12,6 @@
 
 ## Database:
 * _Open Refine_. Ruben Verborgh, Max De Wilde, 116 pp. ISBN: 139781783289080. PackPress.
+
+## Miscellaneous
+* [Acceso a bases Isis desde Python, vía WXIS](http://catalis.uns.edu.ar/doku/doku.php/acceso_a_bases_isis_desde_python)
