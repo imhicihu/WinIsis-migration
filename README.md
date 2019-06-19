@@ -47,4 +47,4 @@
 * All trademarks are the property of their respective owners.
 
 ### License ###
-* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg) 
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png) 
