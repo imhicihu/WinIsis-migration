@@ -3,8 +3,8 @@
 
 # Rationale #
 
-* Steps that describe the workflow of migrate 3 databases in 3 diferent operating systems (Windows 98, Windows XP, Windows Vista), in outdated file formats. 
-* In the [Bibliography.md](https://bitbucket.org/imhicihu/winisis-migration/src/328d9c2b9649caa3a4e65e57399dbfc817f40717/Bibliography.md?at=master&fileviewer=file-view-default) there are some _insights_ about the original database created, maintained, curated in the [90's](https://bitbucket.org/imhicihu/terrae-database/src/master/README.md) or in the original Terrae https://bitbucket.org/imhicihu/winisis-migration/issues/5/workflow-insights-internal-use)
+* Procedures that describe the workflow/road of migrate 3 databases in 3 different operating systems (Windows 98, Windows XP, Windows Vista), in outdated file formats. 
+* In the [Bibliography.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/Bibliography.md) there are some _insights_ about the original database created, maintained, curated in the [90's](https://bitbucket.org/imhicihu/terrae-database/src/master/README.md) or in the original Terrae, _vide_ this [issue](https://bitbucket.org/imhicihu/winisis-migration/issues/5/workflow-insights-internal-use)
 * _Goal_: generate an unique database compatible with the most current file format specifications.
 ![2235980529-terrae.png](https://bitbucket.org/repo/Kr5x8n6/images/3748228110-2235980529-terrae.png)
 
