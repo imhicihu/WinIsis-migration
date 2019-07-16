@@ -32,6 +32,18 @@
      - [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
      - [SWK](ftp://irbis.tomsk.ru/pub/isis/isis_products/swk-isis-utilites/)
 
+### Related repositories
+
+* Some repos linked with this repository:
+     - [Terra database](https://bitbucket.org/imhicihu/terrae-database/src/master/)
+     - [Database on mobile device: Reinhardt Collection](https://bitbucket.org/imhicihu/database-on-mobile-device/src/master/)
+     - [Bibliographical database (migration)](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/)
+     - [Databases (repositories)](https://bitbucket.org/imhicihu/databases-repositories/src/master/)
+     - [Migration data (checklist)](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/)
+
+### Roadmap
+* _Vide_ [To_do.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/To%20Do.md)
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/winisis-migration/issues)
@@ -40,9 +52,7 @@
 
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com` or our [Board](https://bitbucket.org/imhicihu/win-isis-migration/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
-     
-### Roadmap
-* _Vide_ [To_do.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/To%20Do.md)
+
 ### Legal ###
 
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
