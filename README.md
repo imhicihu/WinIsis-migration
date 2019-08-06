@@ -41,6 +41,7 @@
      - [Bibliographical database (migration)](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/)
      - [Databases (repositories)](https://bitbucket.org/imhicihu/databases-repositories/src/master/)
      - [Migration data (checklist)](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/)
+     - [IMHICIHU Digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/)
 
 ### Roadmap
 * _Vide_ [To_do.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/To%20Do.md)
