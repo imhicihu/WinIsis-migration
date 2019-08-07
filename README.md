@@ -46,6 +46,9 @@
 ### Roadmap
 * _Vide_ [To_do.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/To%20Do.md)
 
+## Checklist
+* Verify our internal [checklist](https://bitbucket.org/imhicihu/winisis-migration/src/master/Checklist.md) and apply it according your needs
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/winisis-migration/issues)
