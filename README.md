@@ -46,20 +46,20 @@
 ### Roadmap
 * _Vide_ [To_do.md](https://bitbucket.org/imhicihu/winisis-migration/src/master/To%20Do.md)
 
-## Checklist
+### Checklist
 * Verify our internal [checklist](https://bitbucket.org/imhicihu/winisis-migration/src/master/Checklist.md) and apply it according your needs
 
 ### Issues ###
-
 * Check them on [here](https://bitbucket.org/imhicihu/winisis-migration/issues)
 
 ### Who do I talk to? ###
-
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com` or our [Board](https://bitbucket.org/imhicihu/win-isis-migration/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
 
-### Legal ###
+### Code of Conduct
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/win-isis-migration/src/master/code_of_conduct.md)
 
+### Legal ###
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
 * All trademarks are the property of their respective owners.
 
