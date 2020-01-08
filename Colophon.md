@@ -20,6 +20,8 @@
     - Apple's [Disk Utility](https://support.wdc.com/knowledgebase/answer.aspx?ID=1362) `.ISO`image creation on Mac OSX
     - Text encoding:
         - [Rosettavert](https://eclecticlight.co/downloads/): conversion between text encodings
+    - Table converter
+        - [Table convert](https://tableconvert.com/): converter to a plethora of formats
     - Data Validators:
         - [CSV Validation Tool](https://github.com/digital-preservation/csv-validator)
         - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
