@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware:
     - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
