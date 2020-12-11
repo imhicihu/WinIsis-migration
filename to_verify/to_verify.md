@@ -1,45 +1,45 @@
- A/mbiente
- »Geschichtlichkeit« 
- officio
- [Trabajos presentados al] Seminario'92 GPS].
- 1400 gobernments:
- A la recherche ds legitimités
- A manual of Pahlavi .
- A new approach to the Pyramid Towns,
- a problemática de la vivienda: un tema sin 
- A short history of India and Pakistan .
- A teledetecçao aplicada 
-Acerca de la docta ignorancia:libro I:lo máximo absoluto
-En: Educación a Distancia. Buenos Aires, mar 1987. Año 1, n. 1. p. 8-9.
-Aegidii Viterbiensis: Registrum generalatus I 1506-1514.
-Albertus Magnus  (suspicious double record)
-Algunos aspectos sobre la contaminación del agua subterranea con plaguicidas
-Amplexus die Begegnung des Menschen mit dem dreieinen Gott in der Lehre des Sel. Wilhelm von St. Thierry.
-Amplexus die Begegnung des Menschen mit dem dreienen Gott in der Lehre des Sel. Wilhem von St. Thierry
+-  A/mbiente
+- »Geschichtlichkeit« 
+-  officio
+-  [Trabajos presentados al] Seminario'92 GPS].
+-  1400 gobernments:
+-  A la recherche ds legitimités
+-  A manual of Pahlavi .
+-  A new approach to the Pyramid Towns,
+-  a problemática de la vivienda: un tema sin 
+-  A short history of India and Pakistan .
+-  A teledetecçao aplicada 
+- Acerca de la docta ignorancia:libro I:lo máximo absoluto
+- En: Educación a Distancia. Buenos Aires, mar 1987. Año 1, n. 1. p. 8-9.
+- Aegidii Viterbiensis: Registrum generalatus I 1506-1514.
+- Albertus Magnus  (suspicious double record)
+- Algunos aspectos sobre la contaminación del agua subterranea con plaguicidas
+- Amplexus die Begegnung des Menschen mit dem dreieinen Gott in der Lehre des Sel. Wilhelm von St. Thierry.
+- Amplexus die Begegnung des Menschen mit dem dreienen Gott in der Lehre des Sel. Wilhem von St. Thierry
 
-Bautz, Friedrich Wilhem on #6622
-Opera omnia:Symposium
-Juan de Santo Tomás serie de filosofia española 12
-Saint Agustin el La Bible
-Branderberger, Erna should be Erna Brandenberger
-6767 & 6768 - Geschichte der lateinischen Literatur des Mittelalters-Band I - double record?
-Buttner, F.O. ed.  —) Buttner, F.O. (ed.)
-Caeiro F.Da Gama
-Carrete Parrondo, Carlos (ed)  —) Carrete Parrondo, Carlos (ed.) 
-El manuscrito apologetico de Alfonso de Zamora  -) El manuscrito apologético de Alfonso de Zamora
-Chenu,  M.D —) Chenu,  M.D.
-#6865 —) Chevin, —) needs author
-Cilvetti, Ángel  or Cilveti, Ángel ?
-Colón, Cristobal  —) Colón, Cristóbal
-Cortazar, Julio  —) Cortázar, Julio
-Cristobal Plantino  —) Plantino, Cristóbal ?
-Cubillas Muñoz, Catalina M   —) Cubillos Muñoz, Catalina María ?
-#6920 & 6921 : double record?
-Nicolás de Cusa, "De Sapientia": Un nuevo concepto de sabiduria a la luz de la tradición medieval (separata)   —) sabiduría
-D'Onofrio, Giulio, dir  —) D'Onofrio, Giulio, (dir.)
-de Hamel
-de Estella, Diego  —)  De Estella, Diego ?
-de Lubac, Henri   —)  De Lubac, Henri  ?
+- Bautz, Friedrich Wilhem on #6622
+- Opera omnia:Symposium
+- Juan de Santo Tomás serie de filosofia española 12
+- Saint Agustin el La Bible
+- Branderberger, Erna should be Erna Brandenberger
+- 6767 & 6768 - Geschichte der lateinischen Literatur des Mittelalters-Band I - double record?
+- Buttner, F.O. ed.  —) Buttner, F.O. (ed.)
+- Caeiro F.Da Gama
+- Carrete Parrondo, Carlos (ed)  —) Carrete Parrondo, Carlos (ed.) 
+- El manuscrito apologetico de Alfonso de Zamora  -) El manuscrito apologético de Alfonso de Zamora
+- Chenu,  M.D —) Chenu,  M.D.
+- #6865 —) Chevin, —) needs author
+- Cilvetti, Ángel  or Cilveti, Ángel ?
+- Colón, Cristobal  —) Colón, Cristóbal
+- Cortazar, Julio  —) Cortázar, Julio
+- Cristobal Plantino  —) Plantino, Cristóbal ?
+- Cubillas Muñoz, Catalina M   —) Cubillos Muñoz, Catalina María ?
+- #6920 & 6921 : double record?
+- Nicolás de Cusa, "De Sapientia": Un nuevo concepto de sabiduria a la luz de la tradición medieval (separata)   —) sabiduría
+- D'Onofrio, Giulio, dir  —) D'Onofrio, Giulio, (dir.)
+- de Hamel
+- de Estella, Diego  —)  De Estella, Diego ?
+- de Lubac, Henri   —)  De Lubac, Henri  ?
 Del Valle Rodrìguez, Carlos   —) Del Valle Rodríguez, Carlos
 Obras completas de Donoso Cortes II   —) Obras completas de Donoso Cortés II ?
 Eco, Umberto (ed)  —) Eco, Umberto (ed.)
