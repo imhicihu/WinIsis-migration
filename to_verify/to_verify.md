@@ -40,57 +40,57 @@
 - de Hamel
 - de Estella, Diego  —)  De Estella, Diego ?
 - de Lubac, Henri   —)  De Lubac, Henri  ?
-Del Valle Rodrìguez, Carlos   —) Del Valle Rodríguez, Carlos
-Obras completas de Donoso Cortes II   —) Obras completas de Donoso Cortés II ?
-Eco, Umberto (ed)  —) Eco, Umberto (ed.)
-Eicher,Peter  —) Eicher, Peter
-Esquerda Bifet, Juan ed  —) Esquerda Bifet, Juan (ed.)
-Evans, G. R —) Evans, G.R.
-Facultade de Filosofia SaoBoaventura  —) Facultade de Filosofia São Boaventura
-Fernandez Alvarez, Manuel  —) Fernández Alvarez, Manuel
-Fary Luis De Leon la poda florecinete  —) Fray Luis De Leon la poda floreciente
-Florz García, Gonzalo  —) Flórez García, Gonzalo
-rhs Religionsunterricht an höeren Schulen  — Religionsunterricht an höeren Schulen (rhs)
-herejía y sociedad en el siglo XVI  —) Herejía y sociedad en el siglo XVI
-García,Antonio —) García, Antonio
-Catalogo de los manuscritos juridicos medievales de la catedral de tolrdo  —) Catálogo de los manuscritos jurídicos medievales de la catedral de Toledo
-Gérard Remy  —) Gérard, Remy
-Gert Hummel  —-) Gert, Hummel
-Gilbert Dahan, — ) Dahan, Gilbert
-Gisbert Greshake  —) Greshake, Gisbert
-Temas dogmáticos del Concilio Vatincano  —) Temas dogmáticos del Concilio Vaticano
-Agustin Antolinez  —) Agustín Antolínez
-Gonzalvez Ruiz, Ramon  —) Gonzálvez Ruíz, Ramón
-Grützmacher, Richard H —) Grützmacher, Richard H.
-Guillermo Fraile, O.P. —) Fraile, Guillermo O.P.
-DE SCIENTIIS  —-) De Scientiis
-Gutierrez, C  —) Gutiérrez, C.
-Repertorium initiorum manuscriptorum latinorum medii aevi Vol. II D-=  (check the last words-specification)
-Harald Wagner  —) Wagner, Harald
-Hartmann, Stephanie —) ¿ Hartmann, Stéphanie ?
-Hebreo, Leon  —) Hebreo, León
-Hegel, Geor W. F —) Hegel, Georg W.F.
-Heinz Wipfler  ——) Wipfler, Heinz
-Herausgegeben von Hans (ed.) —) needs more data
-Herbert Haag  —) Herbert, Haag
-Herbert Hammans  —) Hammans, Herbert
-Herman Schell  —) Schell, Herman
-Hernandez Montes, Benigno   —) Hernández Montes, Benigno
-Hofmann, Fritz   ——) Hoffmann, Fritz
-Hugo Rahner   —) Rahner, Hugo
-Huré, Jaques  ——) Huré, Jacques
-JacobGrimm-Wilhelm Grimm  —) Jacob Grimm-Wilhelm Grimm
-Jacques Fontaine  —) Fontaine, Jacques
-Jaime, Montañes —) Montañes, Jaime
-Johannes vom Kreuz  —) von Kreuz, Johannes
-Karl Rahner  —) Rahner, Karl
-Karl- Heinz Ohlig —) Ohlig, Karl-Heinz
-Kasemann, Ernst —) Käsemann, Ernst
-Kommentar von Peter K. Klein  —) Klein, Peter K.
-Leo Scheffczyk  —) Scheffczyk, Leo
-Lothar Lies —) Lies, Lothar
-Ludovici Molina  —-) Ludovici de Molina, J.C.
-Mis fuentes están en ti- Estudios bíblicos de literatura española —) “Mis fuentes están en ti”: Estudios bíblicos de literatura española
+- Del Valle Rodrìguez, Carlos   —) Del Valle Rodríguez, Carlos
+- Obras completas de Donoso Cortes II   —) Obras completas de Donoso Cortés II ?
+- Eco, Umberto (ed)  —) Eco, Umberto (ed.)
+- Eicher,Peter  —) Eicher, Peter
+- Esquerda Bifet, Juan ed  —) Esquerda Bifet, Juan (ed.)
+- Evans, G. R —) Evans, G.R.
+- Facultade de Filosofia SaoBoaventura  —) Facultade de Filosofia São Boaventura
+- Fernandez Alvarez, Manuel  —) Fernández Alvarez, Manuel
+- Fary Luis De Leon la poda florecinete  —) Fray Luis De Leon la poda floreciente
+- Florz García, Gonzalo  —) Flórez García, Gonzalo
+- rhs Religionsunterricht an höeren Schulen  — Religionsunterricht an höeren Schulen (rhs)
+- herejía y sociedad en el siglo XVI  —) Herejía y sociedad en el siglo XVI
+- García,Antonio —) García, Antonio
+- Catalogo de los manuscritos juridicos medievales de la catedral de tolrdo  —) Catálogo de los manuscritos jurídicos medievales de la catedral de Toledo
+- Gérard Remy  —) Gérard, Remy
+- Gert Hummel  —-) Gert, Hummel
+- Gilbert Dahan, — ) Dahan, Gilbert
+- Gisbert Greshake  —) Greshake, Gisbert
+- Temas dogmáticos del Concilio Vatincano  —) Temas dogmáticos del Concilio Vaticano
+- Agustin Antolinez  —) Agustín Antolínez
+- Gonzalvez Ruiz, Ramon  —) Gonzálvez Ruíz, Ramón
+- Grützmacher, Richard H —) Grützmacher, Richard H.
+- Guillermo Fraile, O.P. —) Fraile, Guillermo O.P.
+- DE SCIENTIIS  —-) De Scientiis
+- Gutierrez, C  —) Gutiérrez, C.
+- Repertorium initiorum manuscriptorum latinorum medii aevi Vol. II D-=  (check the last words-specification)
+- Harald Wagner  —) Wagner, Harald
+- Hartmann, Stephanie —) ¿ Hartmann, Stéphanie ?
+- Hebreo, Leon  —) Hebreo, León
+- Hegel, Geor W. F —) Hegel, Georg W.F.
+- Heinz Wipfler  ——) Wipfler, Heinz
+- Herausgegeben von Hans (ed.) —) needs more data
+- Herbert Haag  —) Herbert, Haag
+- Herbert Hammans  —) Hammans, Herbert
+- Herman Schell  —) Schell, Herman
+- Hernandez Montes, Benigno   —) Hernández Montes, Benigno
+- Hofmann, Fritz   ——) Hoffmann, Fritz
+- Hugo Rahner   —) Rahner, Hugo
+- Huré, Jaques  ——) Huré, Jacques
+- JacobGrimm-Wilhelm Grimm  —) Jacob Grimm-Wilhelm Grimm
+- Jacques Fontaine  —) Fontaine, Jacques
+- Jaime, Montañes —) Montañes, Jaime
+- Johannes vom Kreuz  —) von Kreuz, Johannes
+- Karl Rahner  —) Rahner, Karl
+- Karl- Heinz Ohlig —) Ohlig, Karl-Heinz
+- Kasemann, Ernst —) Käsemann, Ernst
+- Kommentar von Peter K. Klein  —) Klein, Peter K.
+- Leo Scheffczyk  —) Scheffczyk, Leo
+- Lothar Lies —) Lies, Lothar
+- Ludovici Molina  —-) Ludovici de Molina, J.C.
+- Mis fuentes están en ti- Estudios bíblicos de literatura española —) “Mis fuentes están en ti”: Estudios bíblicos de literatura española
 
 
 
