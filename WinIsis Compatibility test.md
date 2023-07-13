@@ -1,3 +1,4 @@
+### Compatibility tests
 * All test were based on the same premise:
     - the same pc
     - no virtualization software involved
