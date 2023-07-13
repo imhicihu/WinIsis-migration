@@ -58,15 +58,15 @@ Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 73|Número de referencias|Alfanumérico|- | |
 74|Alcance temporal: desde: |Patrón |- |9999 |
 75|Alcance temporal: hasta: |Patrón |- |9999 |
-76|Descriptores: const. temático|Alfanumérico|- | 
-77|Descriptores: cont. estadíst.|Alfanumérico|- | 
-80|Categoría temática primaria|Alfanumérico|- | 
-81|Categoría temática secundaria|Alfanumérico|- | 
-82|Categoría geográfica|Patrón|- |AA
-83|Países primarios|Alfabético|R | 
-84|Países secundarios|Alfabético|R | 
-85|Divisiones adm. y regiones|Alfanumérico|- | 
-94|Estado del registro|Patrón|- |AAA99999999
-95|Número resumen definitivo|Alfanumérico|R| 
-96|Número resumen preparación|Alfanumérico|- | 
-98|Nombre y MFN en base origen|Alfanumérico|- |
+76|Descriptores: const. temático|Alfanumérico|- | | 
+77|Descriptores: cont. estadíst.|Alfanumérico|- | | 
+80|Categoría temática primaria|Alfanumérico|- | |
+81|Categoría temática secundaria|Alfanumérico|- | | 
+82|Categoría geográfica|Patrón|- |AA |
+83|Países primarios|Alfabético|R | |
+84|Países secundarios|Alfabético|R | | 
+85|Divisiones adm. y regiones|Alfanumérico|- | | 
+94|Estado del registro|Patrón|- |AAA99999999|
+95|Número resumen definitivo|Alfanumérico|R| |
+96|Número resumen preparación|Alfanumérico|- | | 
+98|Nombre y MFN en base origen|Alfanumérico|- | |
