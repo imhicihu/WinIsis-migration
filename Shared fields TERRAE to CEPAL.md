@@ -1,5 +1,5 @@
-TERRAE | CEPAL
-------------- | -------------
+TERRAE | CEPAL |
+------------- | -------------|
      - 10 (ISBN) -------->| 47 (ISBN)
      - 24 (Titulo) --------> | 18 (TITULO)
      - 45 (Fecha Publicación) --------> | 43 (Fecha publicación)
