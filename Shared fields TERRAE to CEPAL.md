@@ -8,5 +8,5 @@ TERRAE | CEPAL
      - 50 (IDIOMA/ALFAB) --------> | 64 (IDIOMA DEL TEXTO)
      - 65 (Descriptor) --------> | 76 (Descriptores)
      - 75 (Signatura topográfica) -------->| 03 (Ubicación)
-     - 177 (Inventario de documento) --------> | 
+     - 177 (Inventario de documento) --------> | |
      
