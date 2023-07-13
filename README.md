@@ -1,4 +1,4 @@
-![stability-wip](images/3278295154-status_archived)
+![stability-wip](images/3278295154-status_archived.png)
 ![stability-wip](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
