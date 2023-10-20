@@ -1,3 +1,4 @@
+### Definiciones
 Nro | Nombre | Tipo | Rep | Patrón/Subcampo
 ---|------|----|---|------
 1 | Nombre del archivo | Alfanumérica | R | (sin datos) |
