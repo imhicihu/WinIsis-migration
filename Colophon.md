@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware:
     - Any pc with an Intel or AMD microprocessor, a monitor, keyboard (mouse not mandatory)
@@ -32,6 +32,6 @@
     - [Typora](https://typora.io/) (table editing, converting, formatting, exporting to markdown format)
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
