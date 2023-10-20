@@ -1,3 +1,4 @@
+### Shared fields between databases
 TERRAE | CEPAL |
 ------------- | ------------- |
  10 (ISBN) --------> | 47 (ISBN)
