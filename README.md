@@ -13,11 +13,12 @@
 
 * Quick summary
      - Workflow with a focus in the steps (mandatory) to migrate some [older database](https://bitbucket.org/imhicihu/terrae-database/src/master/README.md) (_circa_ 1990's) to current file format specifications
-* Version 1.0
+* Version 1.01
 ![bothdatabases.png](images/598019471-bothdatabases.png)
 
 ### How do I get set up? ###
 
+![screenshot.png](images/2024-08-02_12.36.17.png)
 * Summary of set-up
      - Check our [WinIsis operating system test](https://bitbucket.org/imhicihu/winisis-migration/issues/1/software-winisis-compatibility-test)
      - Windows 98 iso image file (_favorite_)
